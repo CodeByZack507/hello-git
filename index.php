@@ -1,2 +1,2 @@
 <?php 
-print ("Hola Git v1");
+print ("Hola Git");
