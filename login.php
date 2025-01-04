@@ -1,3 +1,2 @@
 <?php
-
-print ("Hello git desde login.php para generar un conflicto");
+print ("Hello git desde login.php v2");
