@@ -1,2 +1,2 @@
 <?php
-print ("Hello git desde login.php v2");
+print ("Archivo Login implementado en github");
