@@ -1,3 +1,2 @@
 <?php
-
-print ("Archivo para Github Desktop");
+print("Archivo para Github");
